@@ -3,10 +3,9 @@ This is a robot that can find the best path for a 5x5 maze, detect obstacles, an
 
 Here are some pictures of the car:
 ### Robot Bottom View
-![Chassis Layout](images/robot.jpg)
+![Bottom View](images/robot.jpg)
 
 ### Chassis Layout
-
 ![Chassis Layout](images/chassislayout.png)
 
 ### Close-Up View
