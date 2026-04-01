@@ -4,9 +4,7 @@ This is a robot that can find the best path for a 5x5 maze, detect obstacles, an
 Here's some pictures/videos of the car!
 
 ### Turn Video
-<video width="480" controls>
-  <source src="media/Turn.mp4" type="video/mp4">
-</video>
+[Download/Watch Video](Turn.MP4)
 
 ### Robot Bottom View
 <img src="Robot.jpg" alt="Bottom View" width="400">
