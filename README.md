@@ -5,7 +5,7 @@ Here's some pictures/videos of the car!
 
 ### Turn Video
 <video width="480" controls>
-  <source src="media/Turn.MOV" type="video/mp4">
+  <source src="media/Turn.mp4" type="video/mp4">
 </video>
 
 ### Robot Bottom View
