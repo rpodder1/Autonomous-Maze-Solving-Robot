@@ -9,13 +9,13 @@ Here's some pictures/videos of the car!
 </video>
 
 ### Robot Bottom View
-<img src="images/robot.jpg" alt="Bottom View" width="400">
+<img src="Robot.jpg" alt="Bottom View" width="400">
 
 ### Chassis Layout
-<img src="images/chassislayout.png" alt="Chassis Layout" width="400">
+<img src="chassislayout.png" alt="Chassis Layout" width="400">
 
 ### Close-Up View
-<img src="images/closeup2.png" alt="Close-Up View" width="400">
+<img src="closeup2.png" alt="Close-Up View" width="400">
 
 
 
